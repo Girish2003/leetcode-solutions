@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Girish2003/leetcode-solutions/tree/master/0001-two-sum) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Girish2003/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Girish2003/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Girish2003/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
